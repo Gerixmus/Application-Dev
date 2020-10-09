@@ -1,0 +1,6 @@
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\obj\Debug\BusinessObject.csprojAssemblyReference.cache
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessObject\obj\Debug\BusinessObject.pdb

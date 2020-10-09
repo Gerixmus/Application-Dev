@@ -1,0 +1,14 @@
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\gerix\source\repos\3TierApp\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,46 @@
+﻿@model BusinessObject.UserBO
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+<div class="container">
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor(expression: model => model.UserName, htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(expression: model => model.UserName, htmlAttributes: new { @class = "control-label" })
+            @Html.ValidationMessageFor(expression: model => model.UserName, validationMessage:null,htmlAttributes:new { @class = "text-danger" } )
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor(expression: model => model.UserAddress, htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(expression: model => model.UserAddress, htmlAttributes: new { @class = "control-label" })
+            @Html.ValidationMessageFor(expression: model => model.UserAddress, validationMessage: null, htmlAttributes: new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor(expression: model => model.UserEmail, htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(expression: model => model.UserEmail, htmlAttributes: new { @class = "control-label" })
+            @Html.ValidationMessageFor(expression: model => model.UserEmail, validationMessage: null, htmlAttributes: new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            @Html.LabelFor(expression: model => model.UserMobile, htmlAttributes: new { @class = "control-label" })
+            @Html.TextBoxFor(expression: model => model.UserMobile, htmlAttributes: new { @class = "control-label" })
+            @Html.ValidationMessageFor(expression: model => model.UserMobile, validationMessage: null, htmlAttributes: new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <input type="submit" value="Save" name="save" class="btn btn-primary"/>
+        </div>
+    </div>
+</div>
+}
+
